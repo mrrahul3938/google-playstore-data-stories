@@ -136,7 +136,7 @@ This includes distribution analysis of:
 ## 📁 Project Structure
 
 ```
-GooglePlayStore-EDA/
+google-playstore-data-stories/
 │
 ├── GooglePlaystore_Dataset.csv
 ├── EDA&FE.ipynb
