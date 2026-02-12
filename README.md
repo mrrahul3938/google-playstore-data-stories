@@ -69,7 +69,7 @@ This visualization shows the distribution of apps across different categories in
 
 ## 📊 2️⃣ Most Popular Categories by Installations
 
-<img src="images/Most Popular Categories in Play Store.png" width="750">
+<img src="Images/Most Popular Categories in Play Store.png" width="750">
 
 This graph highlights the categories with the highest total installations.
 
@@ -77,7 +77,7 @@ This graph highlights the categories with the highest total installations.
 
 ## 📱 3️⃣ Top 5 Most Installed Apps in Popular Categories
 
-<img src="images/Top 5 most installed Apps in Each popular Categories.png" width="750">
+<img src="Images/Top 5 most installed Apps in Each popular Categories.png" width="750">
 
 This visualization shows the top installed apps within major categories such as:
 
@@ -90,7 +90,7 @@ This visualization shows the top installed apps within major categories such as:
 
 ## 🔝 4️⃣ Top 10 App Categories
 
-<img src="images/Top 10 app Categories.png" width="750">
+<img src="Images/Top 10 app Categories.png" width="750">
 
 Displays the top 10 categories based on number of apps available.
 
@@ -98,7 +98,7 @@ Displays the top 10 categories based on number of apps available.
 
 ## 📊 5️⃣ Univariate Analysis – Categorical Features
 
-<img src="images/Univariate Analysis of Categorical Features.png" width="750">
+<img src="Images/Univariate Analysis of Categorical Features.png" width="750">
 
 This section analyzes:
 
@@ -109,7 +109,7 @@ This section analyzes:
 
 ## 📊 6️⃣ Univariate Analysis – Numerical Features
 
-<img src="images/Univariate Analysis of Numerical Features.png" width="750">
+<img src="Images/Univariate Analysis of Numerical Features.png" width="750">
 
 This includes distribution analysis of:
 
